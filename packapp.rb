@@ -1,6 +1,6 @@
 # wengwengweng
 
-class PackApp < Formula
+class Packapp < Formula
 
 	desc "pack a binary to MacOS .app bundle"
 	homepage "https://github.com/slmjkdbtl/packapp"
