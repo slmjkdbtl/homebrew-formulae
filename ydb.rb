@@ -6,7 +6,7 @@ class Ydb < Formula
 	homepage "https://github.com/slmjkdbtl/ydb"
 	version 'v0.0.0'
 	url "https://github.com/slmjkdbtl/ydb/releases/download/#{version}/ydb-x86_64-apple-darwin.zip"
-	sha256 "08e9c9184c93fa72956e4ccd8de5e77a0df56a2d27e755e979420fa4cd778dec"
+	sha256 "7ad5fd3d41e0a9d5529f1a6eff35eb7b2aa7a77c1b34abfc6a47827d4f3fdcc0"
 
 	def install
 		bin.install "ydb"
