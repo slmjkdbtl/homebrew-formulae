@@ -6,7 +6,7 @@ class Watch < Formula
 	homepage "https://github.com/slmjkdbtl/watch"
 	version "0.0.0"
 	url "https://github.com/slmjkdbtl/watch/releases/download/#{version}/watch-x86_64-apple-darwin.zip"
-	sha256 "f9df5d704b0c67ebc492df3f1faea4866415e90bc821c0e102e2ec77ddf546c7"
+	sha256 "ab0bf85278bf8d7ef5d3d2512987f480e741502e33cc4f60399f75e138606796"
 
 	def install
 		bin.install "watch"
